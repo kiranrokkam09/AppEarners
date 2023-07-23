@@ -1,6 +1,6 @@
 # Django REST API for AppEarners
 
-AppEarners is a Django-based RESTful API designed to support the PointTrackerPro web application. This API allows administrators to manage Android apps, assign points to users for app downloads, and provides user-facing endpoints for user registration, login, profile, and task completion with screenshot submissions.
+AppEarners is a web application that allows administrators to add Android apps and assign points to users for downloading those apps. Users can sign up, log in, view their profiles, check their earned points, and submit screenshots as proof of completing tasks.
 
 ## Features
 
